@@ -1,4 +1,5 @@
 {
+  "username": "FazelPriyono",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
@@ -11517,7 +11518,8 @@
       "config": {
         "accentColor": "#ffa657",
         "showNow": true,
-        "customLoc": "Banyuwangi"
+        "customLoc": "Banyuwangi",
+        "customAlso": "Digital Creator"
       },
       "locked": false,
       "visible": true,
@@ -11551,6 +11553,27 @@
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1792652029142_2"
+    },
+    {
+      "instanceId": "widget_5da4f4c6-2c07-4da9-8fac-9fefe33c78ab",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 48,
+        "y": 624
+      },
+      "size": {
+        "width": 704,
+        "height": 210
+      },
+      "config": {
+        "showTitle": true,
+        "customTitle": "[ KATA - KATA HARI INI]",
+        "quoteType": "random"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
     }
   ],
   "globalStyles": {
@@ -11564,5 +11587,10 @@
     "themeMode": "dark",
     "templateStyle": "ascii_native"
   },
-  "templateId": "ascii_native"
+  "templateId": "ascii_native",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1794729450994_fa88a",
+    "updatedAt": "2026-11-15T07:57:33.716Z"
+  }
 }
